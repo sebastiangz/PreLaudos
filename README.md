@@ -36,7 +36,7 @@ Esta aplicación de escritorio utiliza técnicas de procesamiento de lenguaje na
 *Identificación automática de errores frecuentes basados en el diagnóstico de 502 laudos*
 
 ### Análisis de Estructura del Laudo
-![Estructura Laudo](https://github.com/sebastiangz/PreLaudos/blob/main/_screenshots/qq4.jpg)
+![Estructura Laudo](https://github.com/sebastiangz/PreLaudos/blob/main/_screenshots/4.jpg)
 *Verificación de la estructura tripartita: Resultando, Considerando, Resuelve*
 
 ### Recomendaciones de Mejora
