@@ -28,11 +28,11 @@ Esta aplicación de escritorio utiliza técnicas de procesamiento de lenguaje na
 ## Capturas de Pantalla
 
 ### Interfaz Principal y Evaluación de Criterios ITAM
-![Criterios ITAM](_screenshots/criterios-itam.png)
+![Criterios ITAM](https://github.com/sebastiangz/PreLaudos/blob/main/_screenshots/1.jpg)
 *Pantalla de evaluación según los seis criterios fundamentales del Manual ITAM*
 
 ### Detección de Errores Comunes
-![Errores Comunes](screenshots/errores-comunes.png)
+![Errores Comunes](https://github.com/sebastiangz/PreLaudos/blob/main/_screenshots/2.jpg)
 *Identificación automática de errores frecuentes basados en el diagnóstico de 502 laudos*
 
 ### Análisis de Estructura del Laudo
