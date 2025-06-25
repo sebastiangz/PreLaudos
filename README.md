@@ -28,7 +28,7 @@ Esta aplicación de escritorio utiliza técnicas de procesamiento de lenguaje na
 ## Capturas de Pantalla
 
 ### Interfaz Principal y Evaluación de Criterios ITAM
-![Criterios ITAM](screenshots/criterios-itam.png)
+![Criterios ITAM](_screenshots/criterios-itam.png)
 *Pantalla de evaluación según los seis criterios fundamentales del Manual ITAM*
 
 ### Detección de Errores Comunes
