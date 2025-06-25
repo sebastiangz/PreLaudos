@@ -44,11 +44,11 @@ Esta aplicación de escritorio utiliza técnicas de procesamiento de lenguaje na
 *Sugerencias específicas para mejorar la calidad del laudo*
 
 ### Análisis de Elementos Laborales
-![Elementos Laborales](screenshots/elementos-laborales.png)
+![Elementos Laborales](https://github.com/sebastiangz/PreLaudos/blob/main/_screenshots/6.jpg)
 *Extracción automática de fechas, montos, prestaciones y partes procesales*
 
 ### Identificación de Litis Laboral
-![Litis Laboral](screenshots/litis-laboral.png)
+![Litis Laboral](https://github.com/sebastiangz/PreLaudos/blob/main/_screenshots/5.jpg)
 *Análisis del conflicto principal y prestaciones reclamadas*
 
 ## Requisitos del Sistema
