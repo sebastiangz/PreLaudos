@@ -32,15 +32,15 @@ Esta aplicación de escritorio utiliza técnicas de procesamiento de lenguaje na
 *Pantalla de evaluación según los seis criterios fundamentales del Manual ITAM*
 
 ### Detección de Errores Comunes
-![Errores Comunes](https://github.com/sebastiangz/PreLaudos/blob/main/_screenshots/5.jpg)
+![Errores Comunes](https://github.com/sebastiangz/PreLaudos/blob/main/_screenshots/7.jpg)
 *Identificación automática de errores frecuentes basados en el diagnóstico de 502 laudos*
 
 ### Análisis de Estructura del Laudo
-![Estructura Laudo](https://github.com/sebastiangz/PreLaudos/blob/main/_screenshots/3.jpg)
+![Estructura Laudo](https://github.com/sebastiangz/PreLaudos/blob/main/_screenshots/4.jpg)
 *Verificación de la estructura tripartita: Resultando, Considerando, Resuelve*
 
 ### Recomendaciones de Mejora
-![Recomendaciones](https://github.com/sebastiangz/PreLaudos/blob/main/_screenshots/6.jpg)
+![Recomendaciones](https://github.com/sebastiangz/PreLaudos/blob/main/_screenshots/8.jpg)
 *Sugerencias específicas para mejorar la calidad del laudo*
 
 ### Análisis de Elementos Laborales
