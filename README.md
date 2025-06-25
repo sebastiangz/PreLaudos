@@ -25,6 +25,32 @@ Esta aplicación de escritorio utiliza técnicas de procesamiento de lenguaje na
 - **Clasificación de Calidad**: Excelente, Bueno, Regular o Deficiente
 - **Identificación de Áreas de Mejora**: Recomendaciones específicas para cada criterio
 
+## Capturas de Pantalla
+
+### Interfaz Principal y Evaluación de Criterios ITAM
+![Criterios ITAM](screenshots/criterios-itam.png)
+*Pantalla de evaluación según los seis criterios fundamentales del Manual ITAM*
+
+### Detección de Errores Comunes
+![Errores Comunes](screenshots/errores-comunes.png)
+*Identificación automática de errores frecuentes basados en el diagnóstico de 502 laudos*
+
+### Análisis de Estructura del Laudo
+![Estructura Laudo](screenshots/estructura-laudo.png)
+*Verificación de la estructura tripartita: Resultando, Considerando, Resuelve*
+
+### Recomendaciones de Mejora
+![Recomendaciones](screenshots/recomendaciones.png)
+*Sugerencias específicas para mejorar la calidad del laudo*
+
+### Análisis de Elementos Laborales
+![Elementos Laborales](screenshots/elementos-laborales.png)
+*Extracción automática de fechas, montos, prestaciones y partes procesales*
+
+### Identificación de Litis Laboral
+![Litis Laboral](screenshots/litis-laboral.png)
+*Análisis del conflicto principal y prestaciones reclamadas*
+
 ## Requisitos del Sistema
 
 ### Sistema Operativo
@@ -41,6 +67,21 @@ La aplicación incluye todas las librerías necesarias:
 - Análisis estadístico y manipulación de datos
 
 ## Instalación y Configuración
+
+### Estructura del Repositorio
+```
+analizador-laudos-laborales/
+├── analizador_laudo-laborar.exe
+├── requirements.txt
+├── README.md
+└── screenshots/
+    ├── criterios-itam.png
+    ├── errores-comunes.png
+    ├── estructura-laudo.png
+    ├── recomendaciones.png
+    ├── elementos-laborales.png
+    └── litis-laboral.png
+```
 
 ### Instalación Directa
 1. Descargar el archivo ejecutable desde el repositorio
@@ -83,12 +124,18 @@ Evaluación detallada de los seis criterios fundamentales:
 - **Coherencia**: Consistencia interna sin contradicciones
 - **Estructura**: Uso correcto de puntuación y división de párrafos
 
+![Evaluación Criterios ITAM](screenshots/criterios-itam.png)
+*Ejemplo de evaluación detallada según los criterios del Manual ITAM*
+
 #### Análisis Especializado
 - **Estructura del Laudo**: Verificación de componentes obligatorios
 - **Litis Laboral**: Identificación del conflicto principal y prestaciones
 - **Elementos Laborales**: Extracción de fechas, montos y partes procesales
 - **Errores Comunes**: Detección de inconsistencias frecuentes
 - **Recomendaciones**: Sugerencias específicas de mejora
+
+![Análisis de Estructura](screenshots/estructura-laudo.png)
+*Verificación automática de la estructura tripartita del laudo*
 
 ## Interpretación de Puntuaciones
 
@@ -155,5 +202,22 @@ Evaluación detallada de los seis criterios fundamentales:
 - **Actualizaciones**: Disponibles a través del repositorio oficial
 
 ---
+
+## Notas para el Repositorio
+
+### Configuración de Imágenes
+Para que las capturas de pantalla se muestren correctamente en GitHub:
+
+1. Crear una carpeta `screenshots/` en la raíz del repositorio
+2. Guardar las imágenes con los siguientes nombres:
+   - `criterios-itam.png` - Pantalla de evaluación de criterios ITAM
+   - `errores-comunes.png` - Detección de errores comunes
+   - `estructura-laudo.png` - Análisis de estructura del laudo
+   - `recomendaciones.png` - Pantalla de recomendaciones
+   - `elementos-laborales.png` - Análisis de elementos laborales
+   - `litis-laboral.png` - Identificación de litis laboral
+
+3. Las imágenes deben estar en formato PNG o JPG
+4. Tamaño recomendado: máximo 1920x1080 píxeles para óptima visualización
 
 *Esta herramienta ha sido desarrollada con fines académicos y profesionales para mejorar la calidad de la impartición de justicia laboral en México, basándose en los estándares establecidos por el Instituto Tecnológico Autónomo de México.*
