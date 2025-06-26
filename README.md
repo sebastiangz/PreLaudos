@@ -73,14 +73,8 @@ La aplicación incluye todas las librerías necesarias:
 analizador-laudos-laborales/
 ├── analizador_laudo-laborar.exe
 ├── requirements.txt
-├── README.md
-└── screenshots/
-    ├── criterios-itam.png
-    ├── errores-comunes.png
-    ├── estructura-laudo.png
-    ├── recomendaciones.png
-    ├── elementos-laborales.png
-    └── litis-laboral.png
+└── README.md
+
 ```
 
 ### Instalación Directa
@@ -202,22 +196,5 @@ Evaluación detallada de los seis criterios fundamentales:
 - **Actualizaciones**: Disponibles a través del repositorio oficial
 
 ---
-
-## Notas para el Repositorio
-
-### Configuración de Imágenes
-Para que las capturas de pantalla se muestren correctamente en GitHub:
-
-1. Crear una carpeta `screenshots/` en la raíz del repositorio
-2. Guardar las imágenes con los siguientes nombres:
-   - `criterios-itam.png` - Pantalla de evaluación de criterios ITAM
-   - `errores-comunes.png` - Detección de errores comunes
-   - `estructura-laudo.png` - Análisis de estructura del laudo
-   - `recomendaciones.png` - Pantalla de recomendaciones
-   - `elementos-laborales.png` - Análisis de elementos laborales
-   - `litis-laboral.png` - Identificación de litis laboral
-
-3. Las imágenes deben estar en formato PNG o JPG
-4. Tamaño recomendado: máximo 1920x1080 píxeles para óptima visualización
 
 *Esta herramienta ha sido desarrollada con fines académicos y profesionales para mejorar la calidad de la impartición de justicia laboral en México, basándose en los estándares establecidos por el Instituto Tecnológico Autónomo de México.*
