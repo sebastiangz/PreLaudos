@@ -174,7 +174,7 @@ Evaluación detallada de los seis criterios fundamentales:
 
 ### Contacto
 - Correo electrónico: druiz@infraestructuragis.com
-- Sitio web: www.infraestructuragis.com
+- Sitio web: [www.infraestructuragis.com](https://www.infraestructuragis.com/index.php/producto/laudolaboral/)
 
 ### Resolución de Problemas
 - Verificar que el documento no esté protegido con contraseña
